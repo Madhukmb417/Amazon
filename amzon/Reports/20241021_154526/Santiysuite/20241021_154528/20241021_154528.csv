@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Santiysuite,Chrome 129.0.0.0,,,21-10-2024 15:45:49,21-10-2024 15:46:04,15.282s,PASSED
+,,,,,,,
+Test Cases/AmzonTollBarVerication,Chrome 129.0.0.0,,,21-10-2024 15:45:50,21-10-2024 15:46:04,14.635s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,21-10-2024 15:45:51,21-10-2024 15:45:57,5.592s,PASSED
+navigateToUrl(url),Chrome 129.0.0.0,,,21-10-2024 15:45:57,21-10-2024 15:46:02,5.444s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Hederobject""), 10)",Chrome 129.0.0.0,,,21-10-2024 15:46:02,21-10-2024 15:46:03,1.258s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,21-10-2024 15:46:03,21-10-2024 15:46:04,1.154s,PASSED
